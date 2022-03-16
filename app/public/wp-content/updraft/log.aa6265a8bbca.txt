@@ -1,0 +1,329 @@
+0000.003 (0) Opened log file at time: Wed, 09 Mar 2022 18:22:27 +0000 on http://ivory-cove.local
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.56 WP: 5.7.2 PHP: 7.3.5 (cgi-fcgi, Windows NT DESKTOP-NVC7UFB 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.7M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 374106.2 MB
+0000.021 (0) Deleting old log file: log.2d6810099a32.txt
+0000.028 (0) Deleting old log file: log.a2f04d4b4c76.txt
+0000.028 (0) Deleting old log file: log.f71d018f6099.txt
+0000.031 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.035 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.220 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1621550601, seconds_ago=25299546)
+0000.228 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2022-03-09 18:22:27
+0000.234 (0) Semaphore (fd, wp_options) reset to 1
+0000.238 (0) Set semaphore last lock (fd) time to 2022-03-09 18:22:27
+0000.241 (0) Semaphore lock (fd) complete
+0000.253 (0) Backup run: resumption=0, nonce=aa6265a8bbca, file_nonce=aa6265a8bbca begun at=1646850147 (0s ago), job type=backup
+0000.260 (0) Scheduling a resumption (1) after 300 seconds (1646850447) in case this run gets aborted
+0000.307 (0) Checking if we have a zip executable available
+0000.316 (0) Creation of backups of directories: beginning
+0000.330 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.951 (0) Total entities for the zip file: 968 directories, 4456 files (0 skipped as non-modified), 107.4 MB
+0002.967 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.193 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 100 files added (on-disk size: 176.5 KB)
+0005.457 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.1 MB, 187 (188) files added so far); re-opening (prior size: 176.5 KB)
+0007.172 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 200 files added (on-disk size: 7334.3 KB)
+0008.007 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 300 files added (on-disk size: 7334.3 KB)
+0008.946 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 400 files added (on-disk size: 7334.3 KB)
+0009.493 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7 MB, 231 (419) files added so far); re-opening (prior size: 7334.3 KB)
+0012.354 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 500 files added (on-disk size: 8678.5 KB)
+0012.424 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.3 MB, 90 (509) files added so far); re-opening (prior size: 8678.5 KB)
+0014.514 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 600 files added (on-disk size: 10850 KB)
+0015.435 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.1 MB, 141 (650) files added so far); re-opening (prior size: 10850 KB)
+0017.039 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 700 files added (on-disk size: 13117.5 KB)
+0018.426 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 143 (793) files added so far); re-opening (prior size: 13117.5 KB)
+0018.656 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 800 files added (on-disk size: 13338.1 KB)
+0020.680 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 900 files added (on-disk size: 13338.1 KB)
+0021.446 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 147 (940) files added so far); re-opening (prior size: 13338.1 KB)
+0022.175 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1000 files added (on-disk size: 13663.5 KB)
+0023.237 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1100 files added (on-disk size: 13663.5 KB)
+0024.518 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 MB, 192 (1132) files added so far); re-opening (prior size: 13663.5 KB)
+0026.967 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1200 files added (on-disk size: 14334.3 KB)
+0027.429 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 83 (1215) files added so far); re-opening (prior size: 14334.3 KB)
+0028.901 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1300 files added (on-disk size: 14845 KB)
+0030.426 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 168 (1383) files added so far); re-opening (prior size: 14845 KB)
+0031.945 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1400 files added (on-disk size: 15284.2 KB)
+0033.426 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 39 (1422) files added so far); re-opening (prior size: 15284.2 KB)
+0036.520 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 37 (1459) files added so far); re-opening (prior size: 15363.5 KB)
+0038.423 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1500 files added (on-disk size: 15406.8 KB)
+0039.215 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1600 files added (on-disk size: 15406.8 KB)
+0039.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.5 MB, 215 (1674) files added so far); re-opening (prior size: 15406.8 KB)
+0040.763 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1700 files added (on-disk size: 19933.4 KB)
+0042.719 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 52 (1726) files added so far); re-opening (prior size: 19933.4 KB)
+0045.636 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 47 (1773) files added so far); re-opening (prior size: 20073.2 KB)
+0047.202 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1800 files added (on-disk size: 20108 KB)
+0048.436 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 52 (1825) files added so far); re-opening (prior size: 20108 KB)
+0051.434 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 57 (1882) files added so far); re-opening (prior size: 20144.3 KB)
+0053.066 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 1900 files added (on-disk size: 20183.3 KB)
+0054.466 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 53 (1935) files added so far); re-opening (prior size: 20183.3 KB)
+0056.331 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2000 files added (on-disk size: 20222.4 KB)
+0057.465 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 91 (2026) files added so far); re-opening (prior size: 20222.4 KB)
+0060.467 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 58 (2084) files added so far); re-opening (prior size: 20271 KB)
+0060.988 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2100 files added (on-disk size: 20491.5 KB)
+0061.897 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2200 files added (on-disk size: 20491.5 KB)
+0062.726 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2300 files added (on-disk size: 20491.5 KB)
+0063.433 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.6 MB, 279 (2363) files added so far); re-opening (prior size: 20491.5 KB)
+0064.144 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2400 files added (on-disk size: 22089.5 KB)
+0064.569 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2500 files added (on-disk size: 22089.5 KB)
+0066.230 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2600 files added (on-disk size: 22089.5 KB)
+0066.430 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.4 MB, 262 (2625) files added so far); re-opening (prior size: 22089.5 KB)
+0068.160 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2700 files added (on-disk size: 24696.8 KB)
+0069.131 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2800 files added (on-disk size: 24696.8 KB)
+0069.423 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 195 (2820) files added so far); re-opening (prior size: 24696.8 KB)
+0070.503 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 2900 files added (on-disk size: 25733.4 KB)
+0071.566 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3000 files added (on-disk size: 25733.4 KB)
+0072.425 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 255 (3075) files added so far); re-opening (prior size: 25733.4 KB)
+0073.037 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3100 files added (on-disk size: 26194.4 KB)
+0073.235 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3200 files added (on-disk size: 26194.4 KB)
+0074.729 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3300 files added (on-disk size: 26194.4 KB)
+0075.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 MB, 280 (3355) files added so far); re-opening (prior size: 26194.4 KB)
+0076.910 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3400 files added (on-disk size: 27901.5 KB)
+0078.450 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.8 MB, 127 (3482) files added so far); re-opening (prior size: 27901.5 KB)
+0082.076 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3500 files added (on-disk size: 30939.6 KB)
+0082.430 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 33 (3515) files added so far); re-opening (prior size: 30939.6 KB)
+0083.781 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3600 files added (on-disk size: 30997.7 KB)
+0084.769 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3700 files added (on-disk size: 30997.7 KB)
+0085.429 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 228 (3743) files added so far); re-opening (prior size: 30997.7 KB)
+0086.427 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3800 files added (on-disk size: 31255.9 KB)
+0088.023 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 3900 files added (on-disk size: 31255.9 KB)
+0088.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 180 (3923) files added so far); re-opening (prior size: 31255.9 KB)
+0090.070 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 4000 files added (on-disk size: 31895.8 KB)
+0091.433 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 166 (4089) files added so far); re-opening (prior size: 31895.8 KB)
+0092.001 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 4100 files added (on-disk size: 32079 KB)
+0094.003 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 4200 files added (on-disk size: 32079 KB)
+0094.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 140 (4229) files added so far); re-opening (prior size: 32079 KB)
+0095.860 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 4300 files added (on-disk size: 32473.9 KB)
+0097.266 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip.tmp: 4400 files added (on-disk size: 32473.9 KB)
+0097.438 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 185 (4414) files added so far); re-opening (prior size: 32473.9 KB)
+0098.887 (0) Created plugins zip (0) - 32718.8 KB in 98.5 s (332 KB/s) (sha1: 6b87d1ffb608eb9a60c51e3c064d5668c748c5a2, sha256: d0786d51b413f851542f78ef065dd9b3a5f1c3539e37dabc129971f0bd3118fd)
+0098.903 (0) Beginning creation of dump of themes (split every: 400 MB)
+0100.382 (0) Total entities for the zip file: 410 directories, 1910 files (0 skipped as non-modified), 55.7 MB
+0101.437 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 57 (57) files added so far); re-opening (prior size: 0 KB)
+0102.432 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 100 files added (on-disk size: 654.8 KB)
+0104.109 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 200 files added (on-disk size: 654.8 KB)
+0104.426 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.7 MB, 197 (254) files added so far); re-opening (prior size: 654.8 KB)
+0106.055 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 300 files added (on-disk size: 6702 KB)
+0107.256 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 400 files added (on-disk size: 6702 KB)
+0107.434 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.5 MB, 169 (423) files added so far); re-opening (prior size: 6702 KB)
+0109.228 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 500 files added (on-disk size: 11217.3 KB)
+0110.431 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 149 (572) files added so far); re-opening (prior size: 11217.3 KB)
+0111.361 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 600 files added (on-disk size: 12111.6 KB)
+0112.727 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 700 files added (on-disk size: 12111.6 KB)
+0113.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.3 MB, 219 (791) files added so far); re-opening (prior size: 12111.6 KB)
+0113.798 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 800 files added (on-disk size: 13960.7 KB)
+0115.000 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 900 files added (on-disk size: 13960.7 KB)
+0116.335 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1000 files added (on-disk size: 13960.7 KB)
+0116.436 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.2 MB, 216 (1007) files added so far); re-opening (prior size: 13960.7 KB)
+0119.445 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 63 (1070) files added so far); re-opening (prior size: 16651.4 KB)
+0120.868 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1100 files added (on-disk size: 16910.2 KB)
+0122.423 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 81 (1151) files added so far); re-opening (prior size: 16910.2 KB)
+0124.479 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1200 files added (on-disk size: 17679.1 KB)
+0125.463 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 142 (1293) files added so far); re-opening (prior size: 17679.1 KB)
+0125.861 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1300 files added (on-disk size: 17880.1 KB)
+0127.553 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1400 files added (on-disk size: 17880.1 KB)
+0128.444 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.9 MB, 170 (1463) files added so far); re-opening (prior size: 17880.1 KB)
+0128.969 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1500 files added (on-disk size: 19260 KB)
+0131.429 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.5 MB, 132 (1595) files added so far); re-opening (prior size: 19260 KB)
+0132.024 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1600 files added (on-disk size: 24763.1 KB)
+0133.846 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1700 files added (on-disk size: 24763.1 KB)
+0134.487 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 124 (1719) files added so far); re-opening (prior size: 24763.1 KB)
+0135.684 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1800 files added (on-disk size: 25926.1 KB)
+0137.088 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip.tmp: 1900 files added (on-disk size: 25926.1 KB)
+0138.155 (0) Created themes zip (0) - 28573.7 KB in 39.2 s (728 KB/s) (sha1: d164f59bbf594832bd2b95b6d5ac23592011a77d, sha256: acd1776c375e7e636460d5c80b4b98cf4b8243f6ee506e3df6729bc142e93322)
+0138.223 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0138.265 (0) Looking for candidates to backup in: C:\Users\r5dvi\Local Sites\ivory-cove\app\public/wp-content/uploads
+0138.305 (0) finding files: 2021: adding to list (1)
+0138.335 (0) finding files: 2022: adding to list (2)
+0138.394 (0) finding files: elementor: adding to list (3)
+0138.433 (0) finding files: themeisle-gutenberg: adding to list (4)
+0138.469 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0138.861 (0) Total entities for the zip file: 10 directories, 242 files (0 skipped as non-modified), 27.6 MB
+0138.996 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0139.072 (0) Zip: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0139.089 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 242 files batched, 217 (217) added so far); re-opening (prior size: 0 KB)
+0139.621 (0) A useful amount of data was added after this amount of zip processing: 1.2 s (normalised: 1.2 s, rate: 21576.9 KB/s)
+0139.714 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.1989641189575, normalised_time=1.1864542196022, max_time=139.66234898567, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0140.888 (0) Created uploads zip (0) - 28270.6 KB in 2.4 s (11913.1 KB/s) (sha1: 7bb960b855f3c53bdc70f833ce6b947044425434, sha256: 82aab355bc4c1cc2f721c6cefc9312321e0f1cd8633aa514b18b6abfdb7a7ba4)
+0140.903 (0) Beginning backup of other directories found in the content directory (index: 0)
+0140.908 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0140.914 (0) Looking for candidates to backup in: C:\Users\r5dvi\Local Sites\ivory-cove\app\public/wp-content
+0140.918 (0) finding files: index.php: adding to list (1)
+0140.923 (0) finding files: mu-plugins: adding to list (2)
+0140.928 (0) finding files: plugins: skipping: this is the plugins directory
+0140.932 (0) finding files: themes: skipping: this is the themes directory
+0140.936 (0) finding files: updraft: skipping: this is the updraft directory
+0140.939 (0) finding files: upgrade: skipping: excluded by options
+0140.943 (0) finding files: uploads: skipping: this is the uploads directory
+0140.960 (0) Total entities for the zip file: 1 directories, 1 files (0 skipped as non-modified), 0 MB
+0141.006 (0) Created others zip (0) - 0.2 KB in 0.1 s (4.4 KB/s) (sha1: f5a7ff244830290d480cf5ff4b1051578c389460, sha256: 67a0151778130fcc091ee92df0b2440258f16a82cc387f1b5810e56add68e247)
+0141.032 (0) Saving backup status to database (elements: 8)
+0141.044 (0) Beginning creation of database dump (WordPress DB)
+0141.050 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0141.097 (0) Table wp_options: Total expected rows (approximate): 239
+0141.168 (0) Table wp_options: Rows added in this batch (next record: 714): 241 (uncompressed bytes in this segment=1083863) in 0.07 seconds
+0141.192 (0) Table wp_options: finishing file(s) (2, 108.9 KB)
+0141.206 (0) Table wp_users: Total expected rows (approximate): 0
+0141.217 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1400) in 0.01 seconds
+0141.235 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0141.249 (0) Table wp_usermeta: Total expected rows (approximate): 20
+0141.260 (0) Table wp_usermeta: Rows added in this batch (next record: 21): 20 (uncompressed bytes in this segment=1783) in 0.01 seconds
+0141.278 (0) Table wp_usermeta: finishing file(s) (2, 1 KB)
+0141.294 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0141.303 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.00 seconds
+0141.326 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0141.340 (0) Table wp_comments: Total expected rows (approximate): 0
+0141.351 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1722) in 0.01 seconds
+0141.373 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0141.388 (0) Table wp_links: Total expected rows (approximate): 0
+0141.401 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.01 seconds
+0141.423 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0141.437 (0) Table wp_postmeta: Total expected rows (approximate): 283
+0141.487 (0) Table wp_postmeta: Rows added in this batch (next record: 433): 305 (uncompressed bytes in this segment=254641) in 0.05 seconds
+0141.508 (0) Table wp_postmeta: finishing file(s) (2, 27.3 KB)
+0141.523 (0) Table wp_posts: Total expected rows (approximate): 153
+0141.705 (0) Table wp_posts: Rows added in this batch (next record: 242): 174 (uncompressed bytes in this segment=1703344) in 0.18 seconds
+0141.776 (0) Table wp_posts: finishing file(s) (2, 187.1 KB)
+0141.790 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0141.804 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 8 (uncompressed bytes in this segment=793) in 0.01 seconds
+0141.825 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0141.839 (0) Table wp_term_taxonomy: Total expected rows (approximate): 2
+0141.854 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=988) in 0.01 seconds
+0141.875 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0141.890 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0141.901 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.01 seconds
+0141.922 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0141.935 (0) Table wp_terms: Total expected rows (approximate): 2
+0141.945 (0) Table wp_terms: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=822) in 0.01 seconds
+0141.972 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0141.986 (0) Table wp_frmt_form_entry: Total expected rows (approximate): 0
+0141.998 (0) Table wp_frmt_form_entry: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=783) in 0.01 seconds
+0142.017 (0) Table wp_frmt_form_entry: finishing file(s) (2, 0.4 KB)
+0142.028 (0) Table wp_frmt_form_entry_meta: Total expected rows (approximate): 0
+0142.037 (0) Table wp_frmt_form_entry_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=902) in 0.01 seconds
+0142.053 (0) Table wp_frmt_form_entry_meta: finishing file(s) (2, 0.4 KB)
+0142.064 (0) Table wp_frmt_form_views: Total expected rows (approximate): 0
+0142.072 (0) Table wp_frmt_form_views: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1078) in 0.00 seconds
+0142.088 (0) Table wp_frmt_form_views: finishing file(s) (2, 0.5 KB)
+0142.094 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_options.table.tmpr715.gz (1/15): adding to final database dump
+0142.130 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_options.table.gz (2/15): adding to final database dump
+0142.133 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_users.table.tmpr2.gz (3/15): adding to final database dump
+0142.137 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_users.table.gz (4/15): adding to final database dump
+0142.140 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_usermeta.table.tmpr22.gz (5/15): adding to final database dump
+0142.145 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_usermeta.table.gz (6/15): adding to final database dump
+0142.148 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_commentmeta.table.tmpr0.gz (7/15): adding to final database dump
+0142.152 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_commentmeta.table.gz (8/15): adding to final database dump
+0142.156 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_comments.table.tmpr0.gz (9/15): adding to final database dump
+0142.160 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_comments.table.gz (10/15): adding to final database dump
+0142.163 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_links.table.tmpr0.gz (11/15): adding to final database dump
+0142.167 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_links.table.gz (12/15): adding to final database dump
+0142.170 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_postmeta.table.tmpr434.gz (13/15): adding to final database dump
+0142.183 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_postmeta.table.gz (14/15): adding to final database dump
+0142.187 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_posts.table.tmpr243.gz (15/15): adding to final database dump
+0142.243 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_posts.table.gz (16/15): adding to final database dump
+0142.247 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_term_relationships.table.tmpr100001.gz (17/15): adding to final database dump
+0142.251 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_term_relationships.table.gz (18/15): adding to final database dump
+0142.255 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_term_taxonomy.table.tmpr4.gz (19/15): adding to final database dump
+0142.258 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_term_taxonomy.table.gz (20/15): adding to final database dump
+0142.262 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_termmeta.table.tmpr0.gz (21/15): adding to final database dump
+0142.266 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_termmeta.table.gz (22/15): adding to final database dump
+0142.269 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_terms.table.tmpr4.gz (23/15): adding to final database dump
+0142.273 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_terms.table.gz (24/15): adding to final database dump
+0142.276 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_frmt_form_entry.table.tmpr0.gz (25/15): adding to final database dump
+0142.281 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_frmt_form_entry.table.gz (26/15): adding to final database dump
+0142.285 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_frmt_form_entry_meta.table.tmpr0.gz (27/15): adding to final database dump
+0142.290 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_frmt_form_entry_meta.table.gz (28/15): adding to final database dump
+0142.293 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_frmt_form_views.table.tmpr2.gz (29/15): adding to final database dump
+0142.297 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db-table-wp_frmt_form_views.table.gz (30/15): adding to final database dump
+0142.317 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz: finished writing out complete database file (296 KB)
+0142.350 (0) Total database tables backed up: 15 (backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz, size: 333575, sha1: aa4dfd8cd7a89736dc178a997bccf55978f5f598, sha256: 56e4c34bf0dca06113dd8c55ea5840bbbf48642ea388c96be8cd81386063db0c)
+0142.369 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0142.373 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0142.377 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0142.381 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-others.zip: others: This file has not yet been successfully uploaded: will queue
+0142.384 (0) backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz: db: This file has not yet been successfully uploaded: will queue
+0142.388 (0) Saving backup history. Total backup size: 87.8 MB
+0142.397 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0142.407 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0142.412 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-7c3157d745df27e55b476b7a04271512)
+0142.417 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0143.046 (0) Successfully updated and refreshed the access token
+0143.051 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0143.651 (0) Dropbox: quota usage: used=367.1 MB, total=2048 MB, available=1680.9 MB
+0143.676 (0) Dropbox: Attempt to upload: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip to: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip
+0145.776 (0) Dropbox chunked upload: 3.1 % uploaded (pid_upload_session:ABIEqP7qAScEE8xOMvI2zuwmF6b6kEka4d4z2618p9S4CjyG, 1048576, 4096 KB)
+0151.749 (0) Dropbox chunked upload: 15.6 % uploaded (pid_upload_session:ABIEqP7qAScEE8xOMvI2zuwmF6b6kEka4d4z2618p9S4CjyG, 5242880, 6144 KB)
+0158.265 (0) Dropbox chunked upload: 34.4 % uploaded (pid_upload_session:ABIEqP7qAScEE8xOMvI2zuwmF6b6kEka4d4z2618p9S4CjyG, 11534336, 8192 KB)
+0166.664 (0) Dropbox chunked upload: 59.5 % uploaded (pid_upload_session:ABIEqP7qAScEE8xOMvI2zuwmF6b6kEka4d4z2618p9S4CjyG, 19922944, 8704 KB)
+0175.522 (0) Dropbox chunked upload: 86.1 % uploaded (pid_upload_session:ABIEqP7qAScEE8xOMvI2zuwmF6b6kEka4d4z2618p9S4CjyG, 28835840, 8704 KB)
+0181.169 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEqP7qAScEE8xOMvI2zuwmF6b6kEka4d4z2618p9S4CjyG, 33504086, 8704 KB)
+0183.177 (0) Recording as successfully uploaded: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip
+0183.249 (0) Deleting local file: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip: OK
+0183.253 (0) Dropbox: File upload success (backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-plugins.zip): 32718 KB in 39s (826 KB/s)
+0183.653 (0) Dropbox: quota usage: used=399 MB, total=2048 MB, available=1649 MB
+0183.715 (0) Dropbox: Attempt to upload: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip to: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip
+0191.895 (0) Dropbox chunked upload: 30.5 % uploaded (pid_upload_session:ABIEqCGfSny8W6oxvtO-24PHawL5ObJIG86q--vOSz8IShDC, 8912896, 9216 KB)
+0200.834 (0) Dropbox chunked upload: 62.7 % uploaded (pid_upload_session:ABIEqCGfSny8W6oxvtO-24PHawL5ObJIG86q--vOSz8IShDC, 18350080, 9216 KB)
+0209.666 (0) Dropbox chunked upload: 95 % uploaded (pid_upload_session:ABIEqCGfSny8W6oxvtO-24PHawL5ObJIG86q--vOSz8IShDC, 27787264, 9216 KB)
+0214.167 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEqCGfSny8W6oxvtO-24PHawL5ObJIG86q--vOSz8IShDC, 29259492, 9216 KB)
+0216.765 (0) Recording as successfully uploaded: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip
+0216.835 (0) Deleting local file: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip: OK
+0216.841 (0) Dropbox: File upload success (backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-themes.zip): 28573 KB in 33s (862 KB/s)
+0217.380 (0) Dropbox: quota usage: used=426.9 MB, total=2048 MB, available=1621.1 MB
+0217.441 (0) Dropbox: Attempt to upload: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip to: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip
+0226.827 (0) Dropbox chunked upload: 32.6 % uploaded (pid_upload_session:ABIEqForzy8goLaUuaITuFxR0rvy-fRoRb3pXFHU78adfaue, 9437184, 8704 KB)
+0235.470 (0) Dropbox chunked upload: 63.4 % uploaded (pid_upload_session:ABIEqForzy8goLaUuaITuFxR0rvy-fRoRb3pXFHU78adfaue, 18350080, 8704 KB)
+0243.865 (0) Dropbox chunked upload: 94.2 % uploaded (pid_upload_session:ABIEqForzy8goLaUuaITuFxR0rvy-fRoRb3pXFHU78adfaue, 27262976, 9216 KB)
+0247.140 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEqForzy8goLaUuaITuFxR0rvy-fRoRb3pXFHU78adfaue, 28949073, 9216 KB)
+0248.923 (0) Recording as successfully uploaded: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip
+0248.941 (0) Deleting local file: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip: OK
+0248.946 (0) Dropbox: File upload success (backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-uploads.zip): 28270 KB in 31s (897 KB/s)
+0249.380 (0) Dropbox: quota usage: used=454.5 MB, total=2048 MB, available=1593.5 MB
+0249.440 (0) Dropbox: Attempt to upload: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-others.zip to: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-others.zip
+0250.423 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEqNw6IC1xI4rivSa4zymaBgm3BybukzfETiv6OekbR04l, 242, 9216 KB)
+0251.990 (0) Recording as successfully uploaded: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-others.zip
+0252.004 (0) Deleting local file: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-others.zip: OK
+0252.009 (0) Dropbox: File upload success (backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-others.zip): 0 KB in 2s (0 KB/s)
+0252.373 (0) Dropbox: quota usage: used=454.5 MB, total=2048 MB, available=1593.5 MB
+0252.433 (0) Dropbox: Attempt to upload: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz to: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz
+0253.879 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIEqD6vTisZTXkt2mr4Nm2I5g75UWCbJYaoGAwrZgwKHGS-, 333575, 9216 KB)
+0255.472 (0) Recording as successfully uploaded: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz
+0255.538 (0) Deleting local file: backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz: OK
+0255.543 (0) Dropbox: File upload success (backup_2022-03-09-1822_Ivory_Cove_aa6265a8bbca-db.gz): 325 KB in 3s (104 KB/s)
+0255.573 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0255.578 (0) Number of backup sets in history: 5; groups (db): 1
+0255.581 (0) Examining (for databases) backup set with group_id=0, nonce=aa6265a8bbca, datestamp=1646850147 (Mar 09 2022 18:22:27)
+0255.585 (0) This backup set is the backup set just made, so will not be deleted.
+0255.585 (0) Examining (for databases) backup set with group_id=0, nonce=a2f04d4b4c76, datestamp=1621550600 (May 20 2021 22:43:20)
+0255.586 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.591 (0) Examining (for databases) backup set with group_id=0, nonce=2d6810099a32, datestamp=1621367497 (May 18 2021 19:51:37)
+0255.591 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.591 (0) Examining (for databases) backup set with group_id=0, nonce=f71d018f6099, datestamp=1620503176 (May 08 2021 19:46:16)
+0255.591 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.592 (0) Examining (for databases) backup set with group_id=0, nonce=194d8c41ea70, datestamp=1617736523 (Apr 06 2021 19:15:23)
+0255.592 (0) This backup set (1617736523) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0255.592 (0) Number of backup sets in history: 5; groups (files): 1
+0255.596 (0) Examining (for files) backup set with nonce=aa6265a8bbca, datestamp=1646850147 (Mar 09 2022 18:22:27)
+0255.596 (0) This backup set is the backup set just made, so will not be deleted.
+0255.599 (0) This backup set is the backup set just made, so will not be deleted.
+0255.600 (0) This backup set is the backup set just made, so will not be deleted.
+0255.600 (0) This backup set is the backup set just made, so will not be deleted.
+0255.601 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.606 (0) Examining (for files) backup set with nonce=a2f04d4b4c76, datestamp=1621550600 (May 20 2021 22:43:20)
+0255.606 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.606 (0) Examining (for files) backup set with nonce=2d6810099a32, datestamp=1621367497 (May 18 2021 19:51:37)
+0255.606 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.607 (0) Examining (for files) backup set with nonce=f71d018f6099, datestamp=1620503176 (May 08 2021 19:46:16)
+0255.607 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.607 (0) Examining (for files) backup set with nonce=194d8c41ea70, datestamp=1617736523 (Apr 06 2021 19:15:23)
+0255.607 (0) This backup set (1617736523) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0255.607 (0) This backup set (1617736523) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0255.607 (0) This backup set (1617736523) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0255.607 (0) This backup set (1617736523) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0255.607 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.608 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0255.617 (0) Resume backup (aa6265a8bbca, 0): finish run
+0255.630 (0) Decremented the semaphore (fd) by 1
+0255.639 (0) Semaphore (fd) unlocked
+0255.642 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0255.657 (0) Fetching RSS news feed
+0256.561 (0) Fetched RSS news feed; result is a: SimplePie
+0256.600 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: ivory...
+0256.854 (0) The backup apparently succeeded and is now complete
